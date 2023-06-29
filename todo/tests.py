@@ -98,3 +98,5 @@ class TodoViewTestCase(TestCase):
         self.assertEqual(response.context["tasks"][1], task2)
 
 
+
+
